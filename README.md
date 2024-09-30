@@ -38,7 +38,7 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/santanamnaa/easypick.git
+   git clone https:https://github.com/winnieee14/Easy-Pick.git
    ```
 
 2. Navigate to the project directory
